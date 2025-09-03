@@ -30,7 +30,7 @@ Este projeto foi uma excelente oportunidade para aprofundar meus conhecimentos e
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
 
-[**Clique aqui para acessar a Lista de Tarefas**]()
+[**Clique aqui para acessar a Lista de Tarefas**](https://henrique-silva-leao.github.io/todo-list/)
 
 ### 📈 Possíveis Melhorias Futuras
 
