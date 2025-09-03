@@ -9,6 +9,8 @@ Um projeto de front-end que simula uma Lista de Tarefas (To-Do List) interativa.
 ### ✨ Funcionalidades
 
 * **Adicionar novas tarefas:** Campo de texto para inserir e adicionar tarefas à lista.
+* **Marcar tarefas como concluídas:** Funcionalidade de clicar em uma tarefa para marcá-la como feita (e desmarcar).
+* **Remover tarefas:** Opção de excluir tarefas individualmente.
 * **Persistência de Dados:** As tarefas são salvas no `localStorage` do navegador, então a lista não se perde ao recarregar a página.
 
 ### 🚀 Tecnologias Utilizadas
@@ -23,20 +25,23 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Este projeto foi uma excelente oportunidade para aprofundar meus conhecimentos e praticar conceitos fundamentais de desenvolvimento front-end, como:
 
+* Manipulação de **Arrays** em JavaScript para gerenciar a lista de tarefas (`push`, `filter`, `map`).
+* Implementação completa do ciclo **CRUD (Create, Read, Update, Delete)**.
 * Uso da **Web Storage API (`localStorage`)** para salvar e carregar dados, criando uma experiência persistente para o usuário.
 * **Criação e remoção dinâmica de elementos do DOM** com JavaScript.
+* Manipulação de classes e estilos CSS via JavaScript para criar interatividade na interface (ex: riscar uma tarefa concluída).
 
 ### 🌐 Acessar o Projeto
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
 
-[**Clique aqui para acessar a Lista de Tarefas**](https://henrique-silva-leao.github.io/todo-list/)
+[**Clique aqui para acessar a Lista de Tarefas**]()
 
 ### 📈 Possíveis Melhorias Futuras
 
-* [ ] Implementar a funcionalidade de excluir uma tarefa existente.
+* [x] Implementar a funcionalidade de excluir uma tarefa existente.
 * [ ] Implementar a funcionalidade de editar uma tarefa existente.
-* [ ] Permitir que o usuario possa marca como Concluído uma tarefa existente.
+* [x] Permitir que o usuario possa marca como Concluído uma tarefa existente.
 * [ ] Adicionar filtros para visualizar apenas tarefas ativas ou concluídas.
 * [ ] Permitir que o usuário reordene as tarefas (arrastar e soltar).
 * [ ] Adicionar datas de vencimento para as tarefas.
