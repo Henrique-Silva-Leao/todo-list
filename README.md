@@ -9,8 +9,6 @@ Um projeto de front-end que simula uma Lista de Tarefas (To-Do List) interativa.
 ### ✨ Funcionalidades
 
 * **Adicionar novas tarefas:** Campo de texto para inserir e adicionar tarefas à lista.
-* **Marcar tarefas como concluídas:** Funcionalidade de clicar em uma tarefa para marcá-la como feita (e desmarcar).
-* **Remover tarefas:** Opção de excluir tarefas individualmente.
 * **Persistência de Dados:** As tarefas são salvas no `localStorage` do navegador, então a lista não se perde ao recarregar a página.
 
 ### 🚀 Tecnologias Utilizadas
